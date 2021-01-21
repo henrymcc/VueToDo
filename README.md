@@ -1,4 +1,6 @@
-# todo
+# VueToDo App 
+
+Todo app implemented in Vue
 
 ## Project setup
 ```
