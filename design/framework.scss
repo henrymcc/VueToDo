@@ -1,0 +1,13 @@
+// ========= Framework.scss =========
+
+//Bootstrap
+
+@import 'scss/bootstrap-reboot';
+@import 'scss/bootstrap-grid';
+@import 'scss/bootstrap';
+
+//Extensions
+.completed {
+    @extend .active;
+}
+
